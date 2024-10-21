@@ -1,5 +1,5 @@
 # Topology in Condensed Matter Physics
-A collection of hands-on assignments and notes for the [TU Delft's online course in topology](https://topocondmat.org/).
+A collection of the hands-on assignments for [TU Delft's online course in topology](https://topocondmat.org/).
 
 
 ## Hands-on
